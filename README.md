@@ -1,2 +1,2 @@
-# exerciciosC-
-Exercicios de lógica na linguagem de programação C++
+# exerciciosC++
+Exercicios de lógica de programação na linguaguem C++ 
